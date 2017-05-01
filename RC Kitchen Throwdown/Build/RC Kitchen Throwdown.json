@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "RC Kitchen Throwdown.data.unityweb",
+"asmCodeUrl": "RC Kitchen Throwdown.asm.code.unityweb",
+"asmMemoryUrl": "RC Kitchen Throwdown.asm.memory.unityweb",
+"asmFrameworkUrl": "RC Kitchen Throwdown.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
